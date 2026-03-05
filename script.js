@@ -1,0 +1,1 @@
+const careers = fetch(eecu-data-server.vercel.app/data)
